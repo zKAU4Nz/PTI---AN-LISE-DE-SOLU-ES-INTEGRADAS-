@@ -1,50 +1,26 @@
-# Welcome to your Expo app 👋
+## Projeto Integrador: Vitasync 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Membros do grupo:Kauan Ferreira Santos
+Itamar de Jesus Borges Rocha
+Gabriel Lobo Tavares Pinto
+João A Dalpiva
+Leonardo Antonio Dos Santos
+Lucas Boccatto 
+Maria Clara Fonseca Bonfim
 
-## Get started
+## Visão Geral do Projeto
 
-1. Install dependencies
+O VitaSync é um aplicativo de bem-estar desenvolvido para solucionar a crescente demanda por soluções de saúde personalizadas e completas no mercado digital. O principal objetivo foi criar uma plataforma única que ajudasse os usuários a superarem barreiras comuns, como a falta de motivação, a carência de orientação profissional e a dificuldade de conciliar a rotina de exercícios com um dia a dia corrido. A metodologia envolveu uma abordagem centrada no usuário, começando por uma pesquisa de mercado aprofundada para identificar as necessidades e os pontos problemáticos do público.
 
-   ```bash
-   npm install
-   ```
+## Tecnologias Utilizadas React Native,javascript,subapase,ExpoGo,Expo Router e React Native Linking.
 
-2. Start the app
+## Fluxo de Funcionamento (MVP) 
+A primeira tela que aparece é a de Login, onde o usuario que já possui o cadastro insere os dados e entra.
+logo a baixo tem a opção cadastre-se onde leva até a tela de registro, o usuario insere os dados solicitados e é enviado uma confirmação e já está apto para fazer o login.
+apos o login ele será direcionado a tela home onde tem três opções,perfil,treinos e sair.
+Perfil: Aparece o nome,foto de perfil e os treinos semanais,o usuário pode interagir com o checklist e, se o recurso for implementado, adicionar novos treinos ou marcar os realizados.
+Treinos: Uma tela que aparece os treinos,uma foto (ou vídeo, se implementado),uma breve explicação sobre os beneficios daquele exercicio e um link que leva o usuario ao spotify ou youtube para treinar enquanto ouve uma música.
+Sair: O usuário encerra a sessão e retorna a tela inicial de Login.
 
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Link para Avaliação
+ https://drive.google.com/file/d/1l_oWJFkpjuxr9MWOWPAE2Lxpkg8ZJ5K_/view?usp=drivesdk
